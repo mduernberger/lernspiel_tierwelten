@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Anakonda/MainAnakonda.unity
+    guid: fbba2be3f360ac544adcf0fc5ad3ff45
+  - enabled: 1
+    path: Assets/Scenes/Anakonda/ExplanationAnakonda.unity
+    guid: cb7c5739201ca6d438712f6a40db2193
+  - enabled: 1
+    path: Assets/Scenes/Eisbaer/MainEisbaer.unity
+    guid: 5c308ff0f18aa254a9cd60bf5573f976
+  - enabled: 1
+    path: Assets/Scenes/Eisbaer/ExplanationEisbaer.unity
+    guid: fd62733830ee949488cb5b10c1330085
+  - enabled: 1
+    path: Assets/Scenes/Kakadu/MainKakadu.unity
+    guid: f626a48c412afa049b386d1978c9a748
+  - enabled: 1
+    path: Assets/Scenes/Kakadu/ExplanationKakadu.unity
+    guid: 0ad64397b693adb4495c7a2e3c820b7e
+  - enabled: 1
+    path: Assets/Scenes/Loewe/MainLoewe.unity
+    guid: 742ec0e73dbc23f4babb9cae18fc9209
+  - enabled: 1
+    path: Assets/Scenes/Loewe/ExplanationLoewe.unity
+    guid: a4ddbc70397d7cc438bbc5a306875582
+  - enabled: 1
+    path: Assets/Scenes/Pinguin/MainPinguin.unity
+    guid: 3bdd69219e354da44a8216221de91b81
+  - enabled: 1
+    path: Assets/Scenes/Pinguin/ExplanationPinguin.unity
+    guid: fa6cfa70ecff75a4e9b3ee8b74fc4f65
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: da90395cd40fad545aa1a6837691c782
+  m_configObjects: {}
